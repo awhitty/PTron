@@ -1,5 +1,7 @@
 import com.google.common.collect.HashBiMap;
 
+// hi here's a comment
+
 Arena a;
 
 boolean[] keys = new boolean[526];
